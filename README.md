@@ -8,4 +8,4 @@ Tutorial for the FrankenJS group
 > ``` npm install ```
 
 ## Compile Presentation
-> ```grunt:compile```
+> ``` grunt:compile ```
