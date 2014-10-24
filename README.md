@@ -50,7 +50,7 @@ grunt.initConfig({
 
 # Step 3 - Register Tasks
 - Always have a __default__ task
-```javascript
+```
 grunt.registerTask('default', function(){
     /* some logic */
 });```
