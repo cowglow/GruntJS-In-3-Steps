@@ -36,7 +36,7 @@ require('load-grunt-tasks')(grunt);
 ---
 
 #Step 2 - Configure Plug-ins
-- Prepare the Config seetings ([See Individual Plug-in Documentation](http://gruntjs.com/plugins))
+- Prepare the Config Settings ([See Individual Plug-in Documentation](http://gruntjs.com/plugins))
 ```javascript
  grunt.initConfig({});
  ```
