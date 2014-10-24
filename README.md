@@ -56,7 +56,8 @@ grunt.initConfig({
 ```
 grunt.registerTask('default', function(){
     /* some logic */
-});```
+});
+```
 
 - Alias Tasks
 ```javascript
