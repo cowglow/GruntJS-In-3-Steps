@@ -1,7 +1,7 @@
 GruntJS-In-3-Steps
 ==
 
-![](http://www.cowglow.com/github/GruntJS-In-3-Steps/images/grunt-logo-no-wordmark.svg)
+![](images/grunt-logo-no-wordmark.svg)
 
 
 Tutorial for the FrankenJS group
