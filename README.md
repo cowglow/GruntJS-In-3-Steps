@@ -67,5 +67,5 @@ grunt.registerTask('TaskList', ['first:task','second:task','third']);
 ---
 
 ### More about GruntJS
-- [gruntjs.com/getting-started](gruntjs.com/getting-started)
+- [gruntjs.com/getting-started](https://gruntjs.com/getting-started)
 - [The State of Grunt](http://cowboy.github.io/state-of-grunt-fe-summit-2014-talk/)
